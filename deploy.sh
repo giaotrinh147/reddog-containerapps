@@ -1,5 +1,5 @@
 # *nix only
-export RG="reddog"
+export RG="reddog-png"
 export LOCATION="eastus2"
 export SUB_ID="c4d65733-80ea-4652-917f-6fd98aa99aa4"
 
